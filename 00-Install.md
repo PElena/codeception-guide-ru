@@ -30,7 +30,7 @@ php composer.phar require "codeception/codeception:*"
 vendor/bin/codecept
 ~~~
 
-Инициализируйте тестовое окружение следующей командой 
+Инициализируйте тестовое окружение следующей командой: 
 
 ~~~
 vendor/bin/codecept bootstrap
