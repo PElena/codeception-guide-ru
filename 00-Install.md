@@ -2,7 +2,7 @@
 
 **Phar**
 
-Скачайте phar-архив Codeception с http://codeception.com/thanks
+Скачайте phar-архив Codeception с http://codeception.com/thanks:
 
 ~~~
 wget http://codeception.com/codecept.phar .
